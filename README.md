@@ -18,4 +18,4 @@
 
 ## Expo Snack
 
-Link akan ditambahkan setelah proyek dibuat di Expo Snack.
+Link expo snack https://snack.expo.dev/@cecilia186/helloworld_cecilia_253303620009
